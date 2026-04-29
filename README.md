@@ -24,8 +24,8 @@ A modern and responsive task management application built with **React.js** to h
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js
-- **Language:** JavaScript (ES6+)
-- **Styling:** Custom CSS3
+- **Language:** JavaScript 
+- **Styling:** Custom 
 - **State Management:** React Hooks (useState, useEffect)
 - **Storage:** Local Storage API
 
