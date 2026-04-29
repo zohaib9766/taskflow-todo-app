@@ -2,6 +2,8 @@
 
 A modern and responsive task management application built with **React.js** to help users stay organized, productive, and focused.
 
+🌍 **Live Demo:** [Check out the Live App on Vercel](https://taskflow-todo-app-beta.vercel.app)
+
 ---
 
 ## 🚀 Features
@@ -22,10 +24,16 @@ A modern and responsive task management application built with **React.js** to h
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js
-- **Language:** JavaScript 
-- **Styling:** 
-- **State Management:** React Hooks
-- **Storage:** Local Storage
+- **Language:** JavaScript (ES6+)
+- **Styling:** Custom CSS3
+- **State Management:** React Hooks (useState, useEffect)
+- **Storage:** Local Storage API
+
+---
+
+## 🚀 Deployment
+
+This project is deployed and hosted on **Vercel**. The deployment is automated, meaning any new updates pushed to the `main` branch on GitHub will automatically trigger a new build and deployment on Vercel. 
 
 ---
 
